@@ -2,7 +2,7 @@
 
 # EP 1 | UE 2 | Datenklassifikation
 
-![BEW_E_EF_2019.png](https://github.com/gomibakun/GIS/blob/73da29d2e94f6eff885b7be72a1629c0eb6ed513/BEW_E_EF_2019.png?raw=true)
+![https://github.com/gomibakun/GIS/blob/73da29d2e94f6eff885b7be72a1629c0eb6ed513/BEW_E_EF_2019.png]
 
 
 # EP 1
