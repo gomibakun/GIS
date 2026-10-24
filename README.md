@@ -8,4 +8,4 @@
 
 ## Beispiel
 Monitoring soziale Stadtentwicklung
-![MGS_2025.png](https://github.com/gomibakun/GIS/blob/main/MGS_2025.png?raw=true)
+![MGS_2025_.png](https://github.com/gomibakun/GIS/blob/main/MGS_2025_.png?raw=true)
